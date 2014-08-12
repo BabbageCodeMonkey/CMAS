@@ -66,3 +66,5 @@ C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.Proper
 C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.UpdateUser.resources
 C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.Wiki.resources
 C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.exe
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.pdb
