@@ -17,6 +17,7 @@ namespace CMAS
         {
             InitializeComponent();
             this.Size = new Size(1355, 900);
+            MessageBox.Show("Success!");
         }
 
         private void usersToolStripMenuItem_Click(object sender, EventArgs e)

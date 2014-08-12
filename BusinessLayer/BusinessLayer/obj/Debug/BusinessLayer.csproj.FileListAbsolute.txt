@@ -12,3 +12,10 @@ F:\CMAS-master\BusinessLayer\BusinessLayer\bin\Debug\MapDataMaper.pdb
 F:\CMAS-master\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 F:\CMAS-master\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
 F:\CMAS-master\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\BusinessLayer\BusinessLayer\bin\Debug\MapDataMaper.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\BusinessLayer\BusinessLayer\bin\Debug\MapDataMaper.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb

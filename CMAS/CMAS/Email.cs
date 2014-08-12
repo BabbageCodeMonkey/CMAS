@@ -18,7 +18,7 @@ namespace CMAS
             InitializeComponent();
             //cbEmailAdd.DataBindings = 
             var items = cbEmailAdd.Items;
-            items.Add("Perls");
+            items.Add("fbutts@yahoo.com");
 
         }
 
