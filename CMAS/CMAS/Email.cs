@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Net;
 using System.Net.Mail;
+using BusinessLayer;
 
 namespace CMAS
 {
@@ -15,7 +16,11 @@ namespace CMAS
     {
         public Email()
         {
+            
+
             InitializeComponent();
+
+            DataTable dt = new DataTable();
             //cbEmailAdd.DataBindings = 
             var items = cbEmailAdd.Items;
             items.Add("fbutts@yahoo.com");
@@ -56,6 +61,19 @@ namespace CMAS
         private void btnClose_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void Email_Load(object sender, EventArgs e)
+        {
+            DataTable dt = new DataTable();
+            User use = new User();
+
+            dt = use.getPersonList();
+
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                cbEmailAdd.Items.Add(Convert.ToString(dt.Rows[i]["FName"]) + " " + Convert.ToString(dt.Rows[i]["LName"]));
+            }
         }
     }
 }

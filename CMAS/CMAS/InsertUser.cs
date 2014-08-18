@@ -14,6 +14,7 @@ namespace CMAS
         public InsertUser()
         {
             InitializeComponent();
+            
         }
 
         private void lblPass_Click(object sender, EventArgs e)
@@ -46,6 +47,13 @@ namespace CMAS
 
         private void InsertUser_Load(object sender, EventArgs e)
         {
+
+            if (BusinessLayer.Auth.role != "Admin")
+            {
+                MessageBox.Show("You do not have permission to use this page.");
+                this.Close();
+            }
+
             DataTable dtPersonType = new DataTable();
             DataTable dtAddress = new DataTable();
 

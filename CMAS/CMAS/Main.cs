@@ -17,7 +17,10 @@ namespace CMAS
         {
             InitializeComponent();
             this.Size = new Size(1355, 900);
-            MessageBox.Show("Success!");
+
+            Login log = new Login();
+            log.Show();
+
         }
 
         private void usersToolStripMenuItem_Click(object sender, EventArgs e)

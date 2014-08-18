@@ -37,6 +37,13 @@ namespace BusinessLayer
 
         }
 
+        public void updatePerson(int ID, string FName, string LName, string Username, string Password, int AddressID, int pType, bool Active)
+        {
+            MapDataMaper.UserMapper user = new UserMapper();
+
+            user.UpdatePerson(ID, FName, LName, Username, Password, AddressID, pType, Active);
+        }
+
         public DataTable getPersonByID(int ID)
         {
             DataTable dt = new DataTable();

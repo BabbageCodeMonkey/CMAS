@@ -161,6 +161,7 @@
             this.Controls.Add(this.btnSend);
             this.Name = "Email";
             this.Text = "Email";
+            this.Load += new System.EventHandler(this.Email_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

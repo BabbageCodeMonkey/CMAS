@@ -115,5 +115,40 @@ namespace MapDataMaper
 
             return dt;
         }
+
+        public void UpdatePerson(int ID, string FName, string LName, string Username, string Password, int AddressID, int pType, bool Active)
+        {
+            DataTable dt = new DataTable();
+            Connection dataConnecter = new Connection();
+
+            SqlConnection con = new SqlConnection(dataConnecter.createSqlServerConnection());
+            SqlCommand com = new SqlCommand();
+
+            com.CommandText = "sp_UpdatePerson";
+            com.CommandType = CommandType.StoredProcedure;
+
+            com.Parameters.Add("@userID", SqlDbType.Int).Value = ID;
+
+            com.Parameters.Add("@FName", SqlDbType.VarChar).Value = FName;
+
+            com.Parameters.Add("@LName", SqlDbType.VarChar).Value = LName;
+
+            com.Parameters.Add("@Username", SqlDbType.VarChar).Value = Username;
+
+            com.Parameters.Add("@Password", SqlDbType.VarChar).Value = Password;
+
+            com.Parameters.Add("@AddressID", SqlDbType.Int).Value = AddressID;
+            com.Parameters.Add("@pTypeID", SqlDbType.Int).Value = pType;
+
+            com.Parameters.Add("@Active", SqlDbType.Bit).Value = Active;
+
+            com.Connection = con;
+
+            con.Open();
+
+            com.ExecuteNonQuery();
+
+            con.Close();
+        }
     }
 }
