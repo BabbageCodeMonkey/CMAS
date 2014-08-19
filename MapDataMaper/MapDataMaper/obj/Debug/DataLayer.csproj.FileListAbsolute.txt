@@ -9,6 +9,5 @@ F:\CMAS-master\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.dll
 F:\CMAS-master\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.pdb
 C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\bin\Debug\MapDataMaper.dll
 C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\bin\Debug\MapDataMaper.pdb
-C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
 C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.dll
 C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.pdb

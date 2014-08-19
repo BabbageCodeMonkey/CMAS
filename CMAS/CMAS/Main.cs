@@ -88,6 +88,27 @@ namespace CMAS
 
             temp.Show();
         }
+
+        private void addToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            Canvas can = new Canvas("Add");
+
+            can.Show();
+        }
+
+        private void updateToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            Canvas can = new Canvas("Update");
+
+            can.Show();
+        }
+
+        private void deleteToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            Canvas can = new Canvas("Delete");
+
+            can.Show();
+        }
        
         }
 }
