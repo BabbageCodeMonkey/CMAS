@@ -72,6 +72,10 @@
     <Compile Include="Email.Designer.cs">
       <DependentUpon>Email.cs</DependentUpon>
     </Compile>
+    <Compile Include="ExportData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportData.Designer.cs" />
     <Compile Include="InsertEvent.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +111,18 @@
     <Compile Include="NewsTicker.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="SearchEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchEvents.Designer.cs">
+      <DependentUpon>SearchEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateEvent.Designer.cs">
+      <DependentUpon>UpdateEvent.cs</DependentUpon>
+    </Compile>
     <Compile Include="UpdateUser.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,6 +144,7 @@
     <EmbeddedResource Include="Email.resx">
       <DependentUpon>Email.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ExportData.resx" />
     <EmbeddedResource Include="InsertEvent.resx">
       <DependentUpon>InsertEvent.cs</DependentUpon>
     </EmbeddedResource>
@@ -153,6 +170,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SearchEvents.resx">
+      <DependentUpon>SearchEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateEvent.resx">
+      <DependentUpon>UpdateEvent.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UpdateUser.resx">
       <DependentUpon>UpdateUser.cs</DependentUpon>
     </EmbeddedResource>

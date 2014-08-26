@@ -46,13 +46,22 @@ namespace CMAS
 
         private void MainTicker1_Paint(object sender, PaintEventArgs e)
         {
-            string news = "This is the news ticker that we can add events too!";
-            MainTicker.Text = news;
+         /*   do not delete gives an error!!  */
         }
 
         private void Main_Load(object sender, System.EventArgs e)
         {
-            string news = "This is the news ticker that we can add events too!";
+            DataTable dtTicker = new DataTable();
+
+            BusinessLayer.Ticker EventList = new BusinessLayer.Ticker();
+
+            dtTicker = EventList.getEventList();
+            string news = "";
+            for (int i = 0; i < dtTicker.Rows.Count; i++)
+            {
+                news = news + dtTicker.Rows[i]["Descr"].ToString() + "        --------        ";
+            }
+
             MainTicker.Text = news;
         }
 
@@ -108,6 +117,26 @@ namespace CMAS
             Canvas can = new Canvas("Delete");
 
             can.Show();
+        }
+
+        private void addToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            InsertEvent ev = new InsertEvent();
+
+            ev.Show();
+        }
+
+        private void updateToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            UpdateEvent ev = new UpdateEvent();
+
+            ev.Show();
+        }
+
+        private void exportDataToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExportData ed = new ExportData();
+            ed.Show();
         }
        
         }

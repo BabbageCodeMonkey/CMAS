@@ -26,3 +26,17 @@ C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\bin\Debug\MapDataM
 C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\MapDataMaper.dll
+F:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\MapDataMaper.pdb
+F:\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\MapDataMaper.dll
+D:\CMAS\BusinessLayer\BusinessLayer\bin\Debug\MapDataMaper.pdb
+D:\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\CMAS\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb

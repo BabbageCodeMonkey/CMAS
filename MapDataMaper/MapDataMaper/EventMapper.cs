@@ -67,7 +67,7 @@ namespace MapDataMaper
             SqlConnection con = new SqlConnection(dataConnecter.createSqlServerConnection());
             SqlCommand com = new SqlCommand();
 
-            com.CommandText = "sp_GetEventByID";
+            com.CommandText = "sp_InsertEvent";
             com.CommandType = CommandType.StoredProcedure;
 
             com.Parameters.Add("@LocationID", SqlDbType.Int).Value = locID;
@@ -85,6 +85,34 @@ namespace MapDataMaper
 
             con.Close();
 
+        }
+
+        public void updateEvent(int ID, int locID, int catID, int useID, string decr, DateTime date, bool active)
+        {
+            DataTable dt = new DataTable();
+            Connection dataConnecter = new Connection();
+
+            SqlConnection con = new SqlConnection(dataConnecter.createSqlServerConnection());
+            SqlCommand com = new SqlCommand();
+
+            com.CommandText = "sp_UpdateEvent";
+            com.CommandType = CommandType.StoredProcedure;
+
+            com.Parameters.Add("@EventID", SqlDbType.Int).Value = ID;
+            com.Parameters.Add("@LocationID", SqlDbType.Int).Value = locID;
+            com.Parameters.Add("@CategoryID", SqlDbType.Int).Value = catID;
+            com.Parameters.Add("@UserID", SqlDbType.Int).Value = useID;
+            com.Parameters.Add("@Descr", SqlDbType.VarChar).Value = decr;
+            com.Parameters.Add("@EventDate", SqlDbType.DateTime).Value = date;
+            com.Parameters.Add("@Active", SqlDbType.Bit).Value = active;
+
+            com.Connection = con;
+
+            con.Open();
+
+            com.ExecuteNonQuery();
+
+            con.Close();
         }
     }
 }

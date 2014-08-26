@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\bin\Release\MapDataMaper.dll
+C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\bin\Release\MapDataMaper.pdb
+C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\William\Desktop\Git\CMAS\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.pdb

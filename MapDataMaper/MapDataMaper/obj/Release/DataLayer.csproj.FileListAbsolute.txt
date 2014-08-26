@@ -1,0 +1,4 @@
+C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\bin\Release\MapDataMaper.dll
+C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\bin\Release\MapDataMaper.pdb
+C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\obj\Release\MapDataMaper.dll
+C:\Users\William\Desktop\Git\CMAS\MapDataMaper\MapDataMaper\obj\Release\MapDataMaper.pdb

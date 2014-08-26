@@ -1,0 +1,95 @@
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\CMAS.exe
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\CMAS.pdb
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Main.resources
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Properties.Resources.resources
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Wiki.resources
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.csproj.GenerateResource.Cache
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.exe
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.pdb
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\BusinessLayer.dll
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\BusinessLayer.pdb
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.csprojResolveAssemblyReference.cache
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.AddUpdate.resources
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\MapDataMaper.dll
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\bin\Debug\MapDataMaper.pdb
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.InsertUser.resources
+C:\Users\William\Downloads\CMAS-master\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.UpdateUser.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.exe
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.pdb
+F:\CMAS-master\CMAS\CMAS\bin\Debug\CMAS.exe
+F:\CMAS-master\CMAS\CMAS\bin\Debug\CMAS.pdb
+F:\CMAS-master\CMAS\CMAS\bin\Debug\ActiproSoftware.Shared.Net20.dll
+F:\CMAS-master\CMAS\CMAS\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+F:\CMAS-master\CMAS\CMAS\bin\Debug\BusinessLayer.dll
+F:\CMAS-master\CMAS\CMAS\bin\Debug\MapDataMaper.dll
+F:\CMAS-master\CMAS\CMAS\bin\Debug\BusinessLayer.pdb
+F:\CMAS-master\CMAS\CMAS\bin\Debug\MapDataMaper.pdb
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.csprojResolveAssemblyReference.cache
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.AddUpdate.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.InsertUser.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Main.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Properties.Resources.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.UpdateUser.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Wiki.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.csproj.GenerateResource.Cache
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Email.resources
+F:\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.Map.resources
+F:\CMAS-master\CMAS\CMAS\bin\Debug\GMap.NET.Core.dll
+F:\CMAS-master\CMAS\CMAS\bin\Debug\GMap.NET.WindowsForms.dll
+F:\CMAS-master\CMAS\CMAS\bin\Debug\GMap.NET.Core.xml
+F:\CMAS-master\CMAS\CMAS\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\William\Desktop\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.exe
+C:\Users\William\Desktop\CMAS-master\CMAS\CMAS\obj\Debug\CMAS.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.exe
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\CMAS.exe
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\CMAS.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\BusinessLayer.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\GMap.NET.Core.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\MapDataMaper.dll
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\BusinessLayer.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\GMap.NET.Core.xml
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\bin\Debug\MapDataMaper.pdb
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.csprojResolveAssemblyReference.cache
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.AddUpdate.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.Email.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.InsertUser.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.Main.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.Map.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.Properties.Resources.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.UpdateUser.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.Wiki.resources
+C:\Users\FrederickCButts\Desktop\CMAS Clone\CMAS\CMAS\CMAS\obj\Debug\CMAS.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.AddUpdate.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.Canvas.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.Email.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.InsertEvent.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.InsertUser.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.Login.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.Main.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.Map.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.Properties.Resources.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.UpdateUser.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.Wiki.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\CMAS.exe
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\CMAS.pdb
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\BusinessLayer.dll
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\MapDataMaper.dll
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\BusinessLayer.pdb
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\bin\Debug\MapDataMaper.pdb
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.exe
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.pdb
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.UpdateEvent.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Debug\CMAS.SearchEvents.resources
+F:\CMAS\CMAS\obj\Debug\CMAS.exe
+F:\CMAS\CMAS\obj\Debug\CMAS.pdb

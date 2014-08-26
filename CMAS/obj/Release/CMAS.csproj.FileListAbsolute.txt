@@ -1,0 +1,15 @@
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.AddUpdate.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.Canvas.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.Email.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.InsertEvent.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.InsertUser.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.Login.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.Main.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.Map.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.Properties.Resources.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.SearchEvents.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.UpdateEvent.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.UpdateUser.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.Wiki.resources
+C:\Users\William\Desktop\Git\CMAS\CMAS\CMAS\obj\Release\CMAS.csproj.GenerateResource.Cache

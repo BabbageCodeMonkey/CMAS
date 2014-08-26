@@ -94,9 +94,10 @@
             this.PassEmail.BackColor = System.Drawing.SystemColors.MenuBar;
             this.PassEmail.Location = new System.Drawing.Point(721, 504);
             this.PassEmail.Name = "PassEmail";
+            this.PassEmail.PasswordChar = '*';
             this.PassEmail.Size = new System.Drawing.Size(206, 20);
             this.PassEmail.TabIndex = 16;
-            this.PassEmail.Text = "Enter Email Password";
+            this.PassEmail.Text = "A4M12345";
             // 
             // Status
             // 
@@ -129,6 +130,7 @@
             this.RecEmail.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.RecEmail.Location = new System.Drawing.Point(92, 566);
             this.RecEmail.Name = "RecEmail";
+            this.RecEmail.PasswordChar = '*';
             this.RecEmail.Size = new System.Drawing.Size(587, 13);
             this.RecEmail.TabIndex = 12;
             // 
@@ -161,7 +163,6 @@
             this.Controls.Add(this.btnSend);
             this.Name = "Email";
             this.Text = "Email";
-            this.Load += new System.EventHandler(this.Email_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
